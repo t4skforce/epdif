@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='epdif',
-      version='0.1.0',
+      version='0.1.1',
       description='EPD hardware interface implements (GPIO, SPI)',
       url='https://github.com/t4skforce/epdif',
       author='Yehui from Waveshare',
